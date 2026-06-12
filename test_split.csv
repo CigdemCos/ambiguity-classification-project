@@ -1,0 +1,649 @@
+StoryText,label
+"As a financial advisor, I want to download statements in order to save time",0
+"As a technician, I would like to troubleshoot connection to maintain connectivity",0
+"As a operator, I would like to generate reports to improve efficiency",0
+"As a customer, I want to process payments so that I can find desired items with detailed specifications and comprehensive requirements",1
+"As a loan officer, I want to transfer funds in order to improve security",0
+"As a healthcare provider, I need to generate lab report so I can save time",0
+"As a store owner, I need to search products so that I can save money",0
+"As a nurse, I need to generate lab report so that I can enhance safety",0
+"As a investor, I want to schedule appointment so I can meet financial goals",0
+"As a patient, I want to access records in order to enhance safety",1
+"As a store owner, I want to track order in order to complete purchase with detailed specifications and comprehensive requirements",0
+"As a healthcare provider, I want to access records so that I can ensure compliance",1
+"As a user, I would like to prescribe medication to reduce errors",1
+"As a user, I want to process medical information so I can save time",1
+"As a user, I want to transfer funds in order to meet financial goals",1
+"As a loan officer, I would like to transfer funds to improve security with detailed specifications and comprehensive requirements",0
+"As a service representative, I want to manage service in order to avoid overage charges",1
+"As a user, I want to schedule appointment so that I can enhance safety with detailed specifications and comprehensive requirements",1
+"As a vendor, I want to add to cart in order to track delivery",0
+"As a loan officer, I want to schedule appointment in order to track spending",0
+"As a plant manager, I want to generate reports in order to reduce downtime",0
+"As a healthcare provider, I need to handle patient care so that I can enhance safety with detailed specifications and comprehensive requirements",1
+"As a nurse, I would like to generate lab report to improve patient care with detailed specifications and comprehensive requirements",0
+"As a user, I would like to check data usage to maintain connectivity with detailed specifications and comprehensive requirements",0
+"As a vendor, I need to leave review so I can find desired items",0
+"As a nurse, I would like to generate lab report to enhance safety",0
+"As a service representative, I need to manage service so that I can reduce costs",1
+"As a subscriber, I want to access tools so that I can resolve issues",1
+"As a network admin, I would like to manage service to maintain connectivity",1
+"As a shopper, I need to leave review so that I can complete purchase with detailed specifications and comprehensive requirements",0
+"As a loan officer, I need to view account balance so I can save time",0
+"As a financial advisor, I want to apply for loan in order to comply with regulations with detailed specifications and comprehensive requirements",0
+"As a bank customer, I would like to download statements to track spending with detailed specifications and comprehensive requirements",0
+"As a technician, I need to troubleshoot connection so that I can reduce costs with detailed specifications and comprehensive requirements",0
+"As a customer, I need to handle orders so that I can track delivery",1
+"As a patient, I would like to handle patient care to enhance safety",1
+"As a caregiver, I want to prescribe medication in order to improve patient care",0
+"As a financial advisor, I want to process application so that I can improve security",1
+"As a loan officer, I need to apply for loan so that I have better save time",1
+"As a medical staff, I want to prescribe medication so I can ensure compliance",0
+"As a buyer, I need to track order so I can make informed decisions",0
+"As a customer, I would like to check data usage to resolve issues",0
+"As a nurse, I need to view medical records so that I can enhance safety",0
+"As a customer, I would like to checkout to track delivery",0
+"As a user, I want to update inventory so that I can complete purchase with detailed specifications and comprehensive requirements",1
+"As a doctor, I need to schedule appointment so that I can enhance safety with detailed specifications and comprehensive requirements",0
+"As a loan officer, I need to transfer funds so that I can improve security",0
+"As a seller, I want to process payments in order to track delivery",1
+"As a financial advisor, I want to manage account in order to comply with regulations with detailed specifications and comprehensive requirements",1
+"As a subscriber, I need to report outage so I can resolve issues",0
+"As a buyer, I would like to manage products to find desired items",1
+"As a bank customer, I need to access system so I can meet financial goals",1
+"As a service representative, I want to manage service so that I can maintain connectivity",1
+"As a network admin, I want to manage service so that I can maintain connectivity",1
+"As a user, I want to view account balance so I can comply with regulations",1
+"As a service representative, I would like to manage service to avoid overage charges",1
+"As a network admin, I need to pay bill so that I can optimize performance",0
+"As a maintenance staff, I want to inspect products so that I can reduce downtime",0
+"As a investor, I would like to transfer funds to track spending with detailed specifications and comprehensive requirements",0
+"As a seller, I want to add to cart in order to save money with detailed specifications and comprehensive requirements",0
+"As a user, I want to manage service so that I can optimize performance",1
+"As a user, I would like to check data usage to avoid overage charges with detailed specifications and comprehensive requirements",1
+"As a account holder, I want to download statements so that I have better meet financial goals with detailed specifications and comprehensive requirements",1
+"As a doctor, I need to handle patient care so that I can reduce errors",1
+"As a subscriber, I want to check data usage so that I can optimize performance",0
+"As a loan officer, I would like to download statements to meet financial goals with detailed specifications and comprehensive requirements",0
+"As a medical staff, I need to access records so that I can reduce errors with detailed specifications and comprehensive requirements",1
+"As a seller, I want to search products so I can find desired items",0
+"As a service representative, I would like to check data usage to reduce costs with detailed specifications and comprehensive requirements",1
+"As a nurse, I need to update system so I can save time",1
+"As a loan officer, I need to access system so that I can meet financial goals",1
+"As a loan officer, I want to apply for loan so that I can track spending",0
+"As a healthcare provider, I need to update system so that I can reduce errors",1
+"As a technician, I want to troubleshoot connection in order to resolve issues",0
+"As a network admin, I would like to access tools to maintain connectivity",1
+"As a healthcare provider, I would like to update patient info to ensure compliance with detailed specifications and comprehensive requirements",0
+"As a quality inspector, I want to update systems so that I can meet production targets with detailed specifications and comprehensive requirements",1
+"As a buyer, I need to add to cart so I can track delivery",0
+"As a caregiver, I want to manage health data so I can ensure compliance",1
+"As a investor, I need to download statements so that I can comply with regulations",0
+"As a account holder, I want to view account balance so that I can improve security",0
+"As a seller, I want to leave review so that I can track delivery with detailed specifications and comprehensive requirements",0
+"As a account holder, I would like to view account balance to save time with detailed specifications and comprehensive requirements",0
+"As a financial advisor, I need to apply for loan so that I can save time",0
+"As a loan officer, I would like to process application to track spending",1
+"As a investor, I need to transfer funds so that I can save time",0
+"As a technician, I need to manage service so I can reduce costs",1
+"As a medical staff, I would like to process medical information to improve patient care",1
+"As a network admin, I would like to troubleshoot connection to maintain connectivity",0
+"As a store owner, I want to checkout so I can make informed decisions",0
+"As a customer, I would like to upgrade plan to reduce costs with detailed specifications and comprehensive requirements",0
+"As a vendor, I need to track order so that I can make informed decisions",0
+"As a shopper, I need to leave review so that I can find desired items with detailed specifications and comprehensive requirements",0
+"As a bank customer, I need to manage account so that I can meet financial goals",1
+"As a bank customer, I want to apply for loan in order to improve security",0
+"As a customer, I want to update inventory so I can track delivery",1
+"As a bank customer, I want to download statements in order to meet financial goals",0
+"As a bank customer, I need to transfer funds so that I can save time",0
+"As a financial advisor, I need to view account balance so that I can meet financial goals",0
+"As a account holder, I would like to download statements to improve security with fast performance",1
+"As a financial advisor, I want to transfer funds so I can improve security",0
+"As a service representative, I would like to report outage to avoid overage charges",1
+"As a shopper, I want to track order so that I can find desired items with detailed specifications and comprehensive requirements",0
+"As a store owner, I want to search products so I can complete purchase",0
+"As a engineer, I need to process data so that I can improve efficiency",1
+"As a medical staff, I need to generate lab report so I can enhance safety",0
+"As a buyer, I need to checkout so that I can find desired items with detailed specifications and comprehensive requirements",0
+"As a seller, I want to checkout so that I can save money with detailed specifications and comprehensive requirements",0
+"As a service representative, I need to update configuration so that I can maintain connectivity",1
+"As a seller, I want to leave review so that I can track delivery",0
+"As a account holder, I would like to manage account to comply with regulations",1
+"As a doctor, I need to manage health data so that I can save time",1
+"As a healthcare provider, I would like to access records to enhance safety",1
+"As a patient, I want to handle patient care in order to enhance safety",1
+"As a user, I want to access records in order to enhance safety",1
+"As a buyer, I would like to add to cart to complete purchase with detailed specifications and comprehensive requirements",0
+"As a investor, I need to manage account so I can comply with regulations",1
+"As a healthcare provider, I want to access records in order to improve patient care",1
+"As a caregiver, I want to generate lab report in order to improve patient care",0
+"As a technician, I want to upgrade plan in order to avoid overage charges",0
+"As a bank customer, I need to transfer funds so I can improve security",0
+"As a buyer, I need to update inventory so that I can track delivery",1
+"As a seller, I would like to add to cart to find desired items",0
+"As a caregiver, I need to generate lab report so that I can ensure compliance",0
+"As a nurse, I want to prescribe medication in order to ensure compliance",0
+"As a engineer, I would like to inspect products to improve efficiency",0
+"As a seller, I need to access dashboard so I can track delivery",1
+"As a nurse, I want to process medical information in order to save time",1
+"As a bank customer, I need to download statements so that I can meet financial goals",0
+"As a nurse, I would like to handle patient care to improve patient care",1
+"As a user, I need to upgrade plan so I can resolve issues",0
+"As a technician, I would like to update configuration to maintain connectivity",1
+"As a doctor, I want to generate lab report so that I can save time",0
+"As a network admin, I would like to pay bill to optimize performance with detailed specifications and comprehensive requirements",0
+"As a user, I need to download statements so that I can save time",1
+"As a financial advisor, I want to schedule appointment so I can track spending",0
+"As a technician, I need to access tools so that I can resolve issues",1
+"As a shopper, I want to update inventory so that I can make informed decisions",1
+"As a nurse, I want to generate lab report in order to ensure compliance",0
+"As a technician, I would like to check data usage to resolve issues",0
+"As a loan officer, I want to download statements in order to improve security with detailed specifications and comprehensive requirements",0
+"As a financial advisor, I need to schedule appointment so that I can save time with detailed specifications and comprehensive requirements",0
+"As a user, I want to pay bill so that I can avoid overage charges with detailed specifications and comprehensive requirements",0
+"As a account holder, I need to apply for loan so that I can improve security with detailed specifications and comprehensive requirements",0
+"As a financial advisor, I need to apply for loan so that I can improve security",0
+"As a account holder, I want to access system so that I can track spending with detailed specifications and comprehensive requirements",1
+"As a seller, I want to access dashboard so that I can find desired items",1
+"As a caregiver, I want to handle patient care so that I can improve patient care",1
+"As a financial advisor, I need to view account balance so that I can comply with regulations with detailed specifications and comprehensive requirements",0
+"As a healthcare provider, I would like to update system to enhance safety",1
+"As a service representative, I would like to process requests to maintain connectivity with detailed specifications and comprehensive requirements",1
+"As a account holder, I need to schedule appointment so that I can improve security",0
+"As a buyer, I would like to process payments to complete purchase",1
+"As a healthcare provider, I need to handle patient care so that I can save time",1
+"As a financial advisor, I need to transfer funds so that I can save time",0
+"As a customer, I want to apply for loan so I can comply with regulations",0
+"As a user, I need to check data usage so that I can resolve issues",1
+"As a nurse, I need to update system so that I can enhance safety",1
+"As a account holder, I want to process application in order to comply with regulations",1
+"As a user, I need to upgrade plan so that I can avoid overage charges",0
+"As a customer, I would like to add to cart to track delivery",0
+"As a bank customer, I would like to view account balance to meet financial goals with detailed specifications and comprehensive requirements",0
+"As a user, I need to handle finances so that I can save time",1
+"As a patient, I need to access records so that I can reduce errors",1
+"As a engineer, I would like to manage operations to maintain safety with detailed specifications and comprehensive requirements",1
+"As a bank customer, I need to view account balance so I can meet financial goals",0
+"As a user, I would like to report outage to avoid overage charges",0
+"As a subscriber, I want to handle network issues so that I can optimize performance with detailed specifications and comprehensive requirements",1
+"As a service representative, I want to upgrade plan so that I can optimize performance with detailed specifications and comprehensive requirements",0
+"As a loan officer, I need to handle finances so that I can meet financial goals with detailed specifications and comprehensive requirements",1
+"As a medical staff, I would like to update patient info to enhance safety",0
+"As a seller, I want to track order in order to find desired items",0
+"As a caregiver, I want to schedule appointment in order to improve patient care with detailed specifications and comprehensive requirements",0
+"As a customer, I would like to transfer funds to meet financial goals with detailed specifications and comprehensive requirements",0
+"As a shopper, I want to track order so that I can find desired items",0
+"As a investor, I want to view account balance in order to save time",0
+"As a medical staff, I want to handle patient care so that I can ensure compliance",1
+"As a financial advisor, I would like to download statements to meet financial goals with detailed specifications and comprehensive requirements",0
+"As a caregiver, I need to handle patient care so that I can improve patient care",1
+"As a caregiver, I want to view medical records in order to improve patient care with detailed specifications and comprehensive requirements",0
+"As a vendor, I want to track order in order to save money with detailed specifications and comprehensive requirements",0
+"As a investor, I need to schedule appointment so that I can save time",0
+"As a engineer, I want to inspect products so that I can ensure quality with detailed specifications and comprehensive requirements",0
+"As a customer, I need to manage account so that I can comply with regulations",1
+"As a financial advisor, I want to schedule appointment so that I can improve security with detailed specifications and comprehensive requirements",0
+"As a network admin, I would like to access tools to maintain connectivity with detailed specifications and comprehensive requirements",1
+"As a user, I need to report outage so that I can maintain connectivity",0
+"As a patient, I want to handle patient care so that I can enhance safety with detailed specifications and comprehensive requirements",1
+"As a buyer, I would like to update inventory to track delivery with detailed specifications and comprehensive requirements",1
+"As a investor, I want to view account balance so I can meet financial goals",0
+"As a medical staff, I would like to manage health data to improve patient care",1
+"As a patient, I would like to access records to reduce errors",1
+"As a financial advisor, I need to access system so I can track spending",1
+"As a buyer, I would like to add to cart to find desired items",0
+"As a user, I need to handle patient care so that I can reduce errors with detailed specifications and comprehensive requirements",1
+"As a technician, I need to handle network issues so that I can resolve issues",1
+"As a investor, I want to access system so that I have better save time",1
+"As a user, I want to leave review so that I can make informed decisions",1
+"As a doctor, I need to update patient info so that I can enhance safety",0
+"As a technician, I want to report outage so that I can resolve issues",0
+"As a customer, I want to schedule appointment so that I can track spending with detailed specifications and comprehensive requirements",0
+"As a doctor, I want to process medical information so I can ensure compliance",1
+"As a nurse, I want to process medical information in order to save time with detailed specifications and comprehensive requirements",1
+"As a caregiver, I would like to access records to enhance safety",1
+"As a financial advisor, I want to download statements so that I can improve security",0
+"As a nurse, I would like to view medical records to ensure compliance with detailed specifications and comprehensive requirements",1
+"As a caregiver, I want to access records so that I can reduce errors with detailed specifications and comprehensive requirements",1
+"As a shopper, I would like to track order to save money",0
+"As a customer, I want to view account balance so that I can improve security",0
+"As a customer, I would like to transfer funds to improve security",0
+"As a account holder, I want to schedule appointment in order to save time",0
+"As a loan officer, I need to download statements so that I can meet financial goals",0
+"As a vendor, I would like to leave review to make informed decisions with detailed specifications and comprehensive requirements",0
+"As a loan officer, I want to schedule appointment so that I have better track spending with detailed specifications and comprehensive requirements",1
+"As a subscriber, I want to handle network issues so I can optimize performance",1
+"As a account holder, I want to apply for loan so that I can improve security",0
+"As a subscriber, I need to report outage so that I can avoid overage charges",0
+"As a user, I want to checkout so that I can track delivery",1
+"As a caregiver, I want to view medical records in order to save time",0
+"As a financial advisor, I want to transfer funds so that I can improve security",0
+"As a service representative, I want to report outage so that I can reduce costs",0
+"As a technician, I would like to upgrade plan to optimize performance",0
+"As a investor, I need to download statements so I can comply with regulations",0
+"As a bank customer, I want to download statements so that I have better meet financial goals",1
+"As a maintenance staff, I need to schedule maintenance so that I can maintain safety",0
+"As a buyer, I want to update inventory in order to make informed decisions",1
+"As a account holder, I need to access system so that I can save time with fast performance",1
+"As a vendor, I want to leave review so I can save money",0
+"As a quality inspector, I need to optimize workflow so that I can ensure quality",1
+"As a healthcare provider, I need to access records so that I can enhance safety",1
+"As a user, I need to process application so that I can improve security",1
+"As a caregiver, I would like to generate lab report to reduce errors",0
+"As a healthcare provider, I want to handle patient care so that I can reduce errors",1
+"As a financial advisor, I want to apply for loan so that I can save time",0
+"As a store owner, I want to add to cart so that I can track delivery with detailed specifications and comprehensive requirements",0
+"As a investor, I would like to download statements to track spending with detailed specifications and comprehensive requirements",0
+"As a customer, I want to check data usage so that I can reduce costs",0
+"As a shopper, I want to leave review in order to save money with detailed specifications and comprehensive requirements",0
+"As a store owner, I need to track order so that I can find desired items",0
+"As a network admin, I would like to pay bill to reduce costs with detailed specifications and comprehensive requirements",0
+"As a subscriber, I would like to report outage to maintain connectivity",0
+"As a financial advisor, I want to view account balance so that I can save time with detailed specifications and comprehensive requirements",0
+"As a investor, I would like to download statements to improve security",0
+"As a buyer, I would like to process payments to make informed decisions",1
+"As a subscriber, I need to manage service so that I can optimize performance",1
+"As a buyer, I want to track order so that I can save money",0
+"As a customer, I want to access tools in order to optimize performance",1
+"As a user, I want to process application in order to comply with regulations",1
+"As a patient, I want to access records in order to reduce errors",1
+"As a customer, I want to track order in order to track delivery",0
+"As a technician, I need to report outage so that I can avoid overage charges",0
+"As a bank customer, I want to download statements in order to comply with regulations",0
+"As a quality inspector, I need to inspect products so I can meet production targets",0
+"As a user, I would like to handle network issues to reduce costs",1
+"As a loan officer, I would like to schedule appointment to save time with detailed specifications and comprehensive requirements",0
+"As a customer, I need to upgrade plan so that I can avoid overage charges",0
+"As a healthcare provider, I want to update patient info in order to ensure compliance",0
+"As a customer, I need to update configuration so I can optimize performance",1
+"As a store owner, I would like to process payments to make informed decisions",1
+"As a medical staff, I need to access records so that I can improve patient care",1
+"As a patient, I need to handle patient care so that I can enhance safety",1
+"As a medical staff, I would like to update patient info to enhance safety with detailed specifications and comprehensive requirements",0
+"As a supervisor, I want to manage operations in order to reduce downtime with detailed specifications and comprehensive requirements",1
+"As a service representative, I need to report outage so that I can maintain connectivity",0
+"As a network admin, I want to access tools so I can maintain connectivity",1
+"As a doctor, I want to update system in order to reduce errors",1
+"As a customer, I want to handle network issues in order to maintain connectivity with detailed specifications and comprehensive requirements",1
+"As a store owner, I need to manage products so that I can find desired items",1
+"As a store owner, I would like to access dashboard to make informed decisions as soon as possible",1
+"As a shopper, I want to leave review in order to save money",0
+"As a loan officer, I want to transfer funds in order to save time",0
+"As a plant manager, I would like to track inventory to ensure quality",0
+"As a loan officer, I want to schedule appointment so that I can improve security",0
+"As a bank customer, I want to download statements so I can track spending",0
+"As a user, I need to generate lab report so that I can reduce errors",1
+"As a customer, I want to manage account in order to track spending",1
+"As a financial advisor, I want to process application so that I can track spending",1
+"As a plant manager, I need to generate reports so that I can ensure quality",0
+"As a user, I want to pay bill so that I have better optimize performance",1
+"As a quality inspector, I need to update systems so that I can ensure quality",1
+"As a user, I would like to update information to comply with regulations",1
+"As a plant manager, I want to monitor production so that I can ensure quality",0
+"As a vendor, I would like to search products to make informed decisions",0
+"As a supervisor, I would like to monitor production to meet production targets",0
+"As a bank customer, I want to apply for loan so I can track spending",0
+"As a service representative, I want to pay bill in order to resolve issues",0
+"As a service representative, I want to manage service in order to reduce costs",1
+"As a store owner, I want to checkout in order to save money",0
+"As a customer, I want to checkout in order to find desired items with detailed specifications and comprehensive requirements",0
+"As a medical staff, I would like to prescribe medication to reduce errors with detailed specifications and comprehensive requirements",0
+"As a store owner, I want to track order in order to save money",0
+"As a caregiver, I want to schedule appointment in order to enhance safety",0
+"As a network admin, I want to manage service in order to maintain connectivity with detailed specifications and comprehensive requirements",1
+"As a customer, I need to update information so that I can save time",1
+"As a nurse, I want to manage health data in order to improve patient care",1
+"As a account holder, I need to manage account so I can track spending",1
+"As a operator, I need to track inventory so I can ensure quality",0
+"As a subscriber, I would like to process requests to optimize performance",1
+"As a customer, I want to leave review in order to find desired items",0
+"As a loan officer, I want to apply for loan so that I can save time with detailed specifications and comprehensive requirements",0
+"As a caregiver, I want to process medical information so that I can improve patient care",1
+"As a service representative, I want to report outage in order to maintain connectivity",0
+"As a subscriber, I want to handle network issues in order to optimize performance",1
+"As a healthcare provider, I want to handle patient care so that I can save time",1
+"As a doctor, I would like to manage health data to improve patient care",1
+"As a user, I need to manage health data so I can save time",1
+"As a nurse, I need to generate lab report so that I can improve patient care",0
+"As a customer, I would like to leave review to make informed decisions",0
+"As a medical staff, I want to update system so that I can ensure compliance",1
+"As a user, I would like to update configuration to resolve issues",1
+"As a buyer, I need to leave review so I can make informed decisions",0
+"As a healthcare provider, I want to manage health data so that I can enhance safety",1
+"As a loan officer, I want to view account balance in order to comply with regulations",0
+"As a vendor, I want to track order in order to track delivery",0
+"As a nurse, I want to update system so that I can ensure compliance",1
+"As a seller, I would like to checkout to complete purchase with detailed specifications and comprehensive requirements",0
+"As a doctor, I want to generate lab report so that I can enhance safety",1
+"As a subscriber, I want to access tools in order to maintain connectivity with detailed specifications and comprehensive requirements",1
+"As a healthcare provider, I need to handle patient care so I can improve patient care",1
+"As a investor, I need to view account balance so that I can comply with regulations with detailed specifications and comprehensive requirements",0
+"As a technician, I want to check data usage so that I can optimize performance",0
+"As a account holder, I want to apply for loan so that I can comply with regulations",0
+"As a technician, I want to manage service so that I can maintain connectivity",1
+"As a medical staff, I want to generate lab report so that I can enhance safety",0
+"As a account holder, I want to process application so that I can improve security",1
+"As a caregiver, I need to handle patient care so that I can enhance safety",1
+"As a user, I need to schedule appointment so that I can save time",1
+"As a investor, I want to view account balance in order to comply with regulations",0
+"As a healthcare provider, I want to generate lab report so that I can save time",0
+"As a patient, I need to access records so that I can save time with detailed specifications and comprehensive requirements",1
+"As a buyer, I would like to track order to make informed decisions with detailed specifications and comprehensive requirements",0
+"As a shopper, I need to search products so I can find desired items",0
+"As a user, I would like to handle network issues to resolve issues",1
+"As a buyer, I would like to handle orders to save money",1
+"As a account holder, I would like to transfer funds to meet financial goals",0
+"As a user, I would like to optimize workflow to improve efficiency",1
+"As a customer, I need to manage service so that I can maintain connectivity",1
+"As a account holder, I would like to manage account to track spending",1
+"As a user, I would like to check data usage to reduce costs with detailed specifications and comprehensive requirements",1
+"As a investor, I want to view account balance in order to meet financial goals",0
+"As a seller, I want to add to cart so that I can make informed decisions",0
+"As a customer, I want to update inventory in order to find desired items",1
+"As a user, I want to apply for loan in order to track spending with detailed specifications and comprehensive requirements",1
+"As a patient, I need to schedule appointment so that I can reduce errors",0
+"As a customer, I would like to troubleshoot connection to avoid overage charges",0
+"As a loan officer, I want to manage account so that I can meet financial goals",1
+"As a service representative, I would like to upgrade plan to avoid overage charges",0
+"As a caregiver, I want to generate lab report so that I can improve patient care",0
+"As a financial advisor, I want to update information in order to improve security with detailed specifications and comprehensive requirements",1
+"As a customer, I need to manage products so I can complete purchase",1
+"As a subscriber, I want to process requests so that I can optimize performance",1
+"As a network admin, I want to manage service in order to optimize performance",1
+"As a user, I want to apply for loan so that I can track spending",1
+"As a customer, I want to add to cart so that I can complete purchase",0
+"As a user, I want to add to cart in order to make informed decisions",1
+"As a loan officer, I need to schedule appointment so that I can improve security",0
+"As a financial advisor, I need to handle finances so I can save time",1
+"As a medical staff, I want to update system in order to save time",1
+"As a healthcare provider, I need to prescribe medication so that I have better save time",1
+"As a shopper, I need to track order so that I have better complete purchase",1
+"As a customer, I would like to handle finances to comply with regulations",1
+"As a maintenance staff, I would like to track inventory to improve efficiency",0
+"As a healthcare provider, I want to process medical information in order to improve patient care",1
+"As a patient, I want to process medical information so that I can enhance safety",1
+"As a caregiver, I want to handle patient care so that I can save time with detailed specifications and comprehensive requirements",1
+"As a patient, I want to update system in order to enhance safety",1
+"As a financial advisor, I need to view account balance so I can comply with regulations",0
+"As a customer, I want to search products so I can track delivery",0
+"As a customer, I want to access tools so that I can avoid overage charges",1
+"As a user, I would like to schedule appointment to meet financial goals",1
+"As a doctor, I would like to prescribe medication to improve patient care",0
+"As a investor, I would like to update information to track spending with detailed specifications and comprehensive requirements",1
+"As a patient, I want to manage health data so that I can ensure compliance",1
+"As a caregiver, I need to manage health data so that I can save time with detailed specifications and comprehensive requirements",1
+"As a store owner, I need to checkout so that I can track delivery",0
+"As a medical staff, I need to handle patient care so that I can reduce errors",1
+"As a caregiver, I need to update system so I can ensure compliance",1
+"As a customer, I would like to upgrade plan to reduce costs",0
+"As a account holder, I need to view account balance so that I can track spending",0
+"As a shopper, I want to leave review so that I can find desired items",0
+"As a user, I would like to handle patient care to improve patient care with detailed specifications and comprehensive requirements",1
+"As a store owner, I would like to search products to complete purchase with detailed specifications and comprehensive requirements",0
+"As a operator, I want to update systems so that I can improve efficiency",1
+"As a technician, I want to pay bill so I can resolve issues",0
+"As a technician, I need to check data usage so that I can optimize performance",0
+"As a shopper, I want to search products in order to track delivery",0
+"As a seller, I need to process payments so that I have better save money",1
+"As a customer, I would like to handle network issues to resolve issues",1
+"As a loan officer, I would like to view account balance to save time with detailed specifications and comprehensive requirements",0
+"As a subscriber, I want to upgrade plan so that I can avoid overage charges",0
+"As a customer, I need to download statements so that I can save time with detailed specifications and comprehensive requirements",0
+"As a customer, I want to view account balance in order to save time with detailed specifications and comprehensive requirements",0
+"As a service representative, I want to manage service so that I can resolve issues",1
+"As a bank customer, I want to download statements in order to save time",0
+"As a loan officer, I would like to apply for loan to comply with regulations",0
+"As a loan officer, I need to transfer funds so I can meet financial goals",0
+"As a caregiver, I need to manage health data so that I can enhance safety",1
+"As a network admin, I want to handle network issues in order to resolve issues",1
+"As a account holder, I want to download statements in order to track spending",0
+"As a investor, I want to download statements so that I can save time with detailed specifications and comprehensive requirements",0
+"As a account holder, I need to access system so that I can comply with regulations with detailed specifications and comprehensive requirements",1
+"As a medical staff, I need to generate lab report so that I have better reduce errors",1
+"As a user, I need to access tools so that I can reduce costs",1
+"As a financial advisor, I want to download statements so that I can improve security with detailed specifications and comprehensive requirements",0
+"As a medical staff, I need to prescribe medication so that I can improve patient care with detailed specifications and comprehensive requirements",0
+"As a plant manager, I want to optimize workflow in order to improve efficiency",1
+"As a caregiver, I want to generate lab report in order to improve patient care with detailed specifications and comprehensive requirements",0
+"As a investor, I need to process application so that I have better meet financial goals with detailed specifications and comprehensive requirements",1
+"As a bank customer, I would like to schedule appointment to meet financial goals with detailed specifications and comprehensive requirements",0
+"As a loan officer, I need to update information so that I can improve security",1
+"As a medical staff, I want to update system so that I have better ensure compliance",1
+"As a user, I want to access system in order to comply with regulations",1
+"As a loan officer, I want to download statements so that I have better save time as soon as possible",1
+"As a loan officer, I want to access system so that I can comply with regulations",1
+"As a vendor, I would like to leave review to complete purchase",0
+"As a financial advisor, I want to view account balance so that I can meet financial goals",0
+"As a nurse, I want to prescribe medication so that I can save time with detailed specifications and comprehensive requirements",0
+"As a buyer, I need to handle orders so that I can save money",1
+"As a service representative, I need to handle network issues so that I can resolve issues",1
+"As a doctor, I would like to access records to ensure compliance",1
+"As a investor, I want to process application in order to save time",1
+"As a caregiver, I need to schedule appointment so that I can ensure compliance",0
+"As a buyer, I want to add to cart so that I can complete purchase",0
+"As a loan officer, I want to handle finances so I can improve security",1
+"As a medical staff, I want to handle patient care so that I can reduce errors with detailed specifications and comprehensive requirements",1
+"As a healthcare provider, I would like to manage health data to improve patient care",1
+"As a shopper, I want to process payments so that I have better save money with detailed specifications and comprehensive requirements",1
+"As a shopper, I want to add to cart so that I can track delivery",0
+"As a medical staff, I need to view medical records so that I can save time",0
+"As a caregiver, I want to update system so I can enhance safety",1
+"As a vendor, I need to search products so I can make informed decisions",0
+"As a investor, I need to transfer funds so that I can meet financial goals with detailed specifications and comprehensive requirements",0
+"As a network admin, I want to troubleshoot connection in order to reduce costs",0
+"As a engineer, I need to track inventory so I can improve efficiency",0
+"As a loan officer, I want to schedule appointment so that I can comply with regulations with detailed specifications and comprehensive requirements",0
+"As a buyer, I want to checkout so that I can make informed decisions",0
+"As a loan officer, I want to schedule appointment so that I have better improve security",1
+"As a financial advisor, I would like to access system to comply with regulations",1
+"As a account holder, I want to process application in order to improve security as soon as possible",1
+"As a service representative, I need to process requests so that I can maintain connectivity",1
+"As a seller, I want to add to cart so that I can track delivery with detailed specifications and comprehensive requirements",0
+"As a network admin, I want to check data usage so I can resolve issues",0
+"As a user, I need to handle finances so that I can improve security",1
+"As a technician, I would like to manage service to maintain connectivity as soon as possible",1
+"As a investor, I would like to view account balance to comply with regulations with detailed specifications and comprehensive requirements",0
+"As a doctor, I want to process medical information so I can enhance safety",1
+"As a patient, I need to access records so that I can enhance safety with detailed specifications and comprehensive requirements",1
+"As a user, I need to update system so that I can save time",1
+"As a vendor, I want to manage products so I can track delivery",1
+"As a patient, I would like to access records to enhance safety",1
+"As a supervisor, I want to handle quality control so that I can meet production targets",1
+"As a customer, I would like to check data usage to maintain connectivity",0
+"As a user, I want to update information so that I can meet financial goals",1
+"As a customer, I need to apply for loan so I can track spending",0
+"As a user, I need to track order so that I can track delivery as soon as possible",1
+"As a financial advisor, I need to download statements so that I can track spending",0
+"As a loan officer, I need to transfer funds so I can comply with regulations",0
+"As a store owner, I need to track order so that I can save money with detailed specifications and comprehensive requirements",0
+"As a customer, I would like to upgrade plan to resolve issues",0
+"As a loan officer, I want to manage account so that I can comply with regulations",1
+"As a medical staff, I would like to handle patient care to reduce errors",1
+"As a customer, I need to search products so that I can make informed decisions",0
+"As a investor, I want to download statements in order to meet financial goals",0
+"As a doctor, I want to process medical information so that I can reduce errors",1
+"As a store owner, I want to checkout in order to track delivery with detailed specifications and comprehensive requirements",0
+"As a user, I want to manage health data so that I can improve patient care",1
+"As a customer, I need to track order so that I can make informed decisions",0
+"As a investor, I want to schedule appointment in order to meet financial goals with detailed specifications and comprehensive requirements",0
+"As a financial advisor, I would like to download statements to meet financial goals",0
+"As a shopper, I need to checkout so I can make informed decisions",0
+"As a medical staff, I want to update patient info so that I can improve patient care with detailed specifications and comprehensive requirements",0
+"As a bank customer, I want to schedule appointment so that I can track spending with detailed specifications and comprehensive requirements",0
+"As a loan officer, I want to download statements in order to improve security",0
+"As a customer, I need to update information so that I can track spending",1
+"As a loan officer, I want to process application so that I can comply with regulations",1
+"As a customer, I would like to report outage to reduce costs",0
+"As a customer, I need to download statements so I can improve security",0
+"As a customer, I want to view account balance in order to track spending",0
+"As a customer, I want to troubleshoot connection so that I can optimize performance",0
+"As a user, I would like to schedule maintenance to maintain safety as soon as possible",1
+"As a user, I want to process medical information so that I can enhance safety",1
+"As a customer, I want to view account balance in order to save time",0
+"As a medical staff, I would like to update patient info to ensure compliance",0
+"As a seller, I want to leave review in order to find desired items with detailed specifications and comprehensive requirements",0
+"As a nurse, I would like to handle patient care to reduce errors",1
+"As a account holder, I would like to handle finances to meet financial goals",1
+"As a user, I want to update inventory so that I can make informed decisions",1
+"As a store owner, I want to handle orders so that I have better track delivery",1
+"As a store owner, I need to add to cart so that I can save money",0
+"As a user, I need to process application so I can save time as soon as possible",1
+"As a vendor, I would like to add to cart to make informed decisions",0
+"As a user, I want to manage operations in order to maintain safety with detailed specifications and comprehensive requirements",1
+"As a bank customer, I would like to transfer funds to meet financial goals",0
+"As a medical staff, I would like to handle patient care to save time",1
+"As a financial advisor, I want to transfer funds in order to improve security",0
+"As a user, I would like to update patient info to reduce errors with detailed specifications and comprehensive requirements",1
+"As a user, I want to access tools in order to reduce costs",1
+"As a caregiver, I need to manage health data so that I can improve patient care",1
+"As a subscriber, I need to upgrade plan so I can reduce costs",0
+"As a buyer, I want to add to cart so I can make informed decisions",0
+"As a vendor, I want to handle orders in order to complete purchase with detailed specifications and comprehensive requirements",1
+"As a buyer, I want to search products so I can make informed decisions",0
+"As a investor, I want to update information in order to save time",1
+"As a user, I would like to manage health data to reduce errors",1
+"As a operator, I want to inspect products so that I can improve efficiency",0
+"As a shopper, I would like to track order to track delivery",0
+"As a user, I want to update patient info in order to enhance safety with detailed specifications and comprehensive requirements",1
+"As a vendor, I want to leave review in order to complete purchase",0
+"As a user, I would like to download statements to meet financial goals",1
+"As a nurse, I want to access records in order to enhance safety",1
+"As a user, I would like to access records to save time",1
+"As a buyer, I need to track order so I can complete purchase",0
+"As a subscriber, I need to troubleshoot connection so I can resolve issues",0
+"As a caregiver, I would like to handle patient care to enhance safety as soon as possible",1
+"As a healthcare provider, I would like to view medical records to enhance safety with detailed specifications and comprehensive requirements",0
+"As a user, I want to manage account in order to comply with regulations",1
+"As a user, I would like to process requests to optimize performance",1
+"As a financial advisor, I would like to access system to improve security with detailed specifications and comprehensive requirements",1
+"As a user, I need to report outage so that I can avoid overage charges with detailed specifications and comprehensive requirements",0
+"As a investor, I want to apply for loan so that I can comply with regulations",0
+"As a doctor, I want to handle patient care in order to improve patient care",1
+"As a vendor, I want to checkout in order to track delivery with detailed specifications and comprehensive requirements",0
+"As a vendor, I want to checkout so that I can save money with detailed specifications and comprehensive requirements",0
+"As a medical staff, I want to update system in order to reduce errors",1
+"As a financial advisor, I need to download statements so I can comply with regulations",0
+"As a bank customer, I want to update information in order to track spending with detailed specifications and comprehensive requirements",1
+"As a technician, I want to handle network issues in order to maintain connectivity with detailed specifications and comprehensive requirements",1
+"As a seller, I want to leave review in order to save money",0
+"As a user, I want to generate lab report so that I can reduce errors with detailed specifications and comprehensive requirements",1
+"As a nurse, I need to update patient info so that I can enhance safety",0
+"As a user, I would like to access system to track spending",1
+"As a shopper, I would like to search products to make informed decisions",0
+"As a technician, I would like to access tools to avoid overage charges",1
+"As a customer, I need to download statements so that I can save time",0
+"As a store owner, I want to search products so I can make informed decisions",0
+"As a user, I would like to handle patient care to reduce errors",1
+"As a buyer, I need to access dashboard so that I can make informed decisions",1
+"As a service representative, I would like to troubleshoot connection to optimize performance",0
+"As a customer, I would like to manage products to make informed decisions with detailed specifications and comprehensive requirements",1
+"As a account holder, I want to access system so that I can comply with regulations",1
+"As a healthcare provider, I would like to update system to reduce errors",1
+"As a technician, I need to pay bill so that I can optimize performance with detailed specifications and comprehensive requirements",0
+"As a customer, I need to leave review so that I can make informed decisions with detailed specifications and comprehensive requirements",0
+"As a store owner, I need to leave review so that I can track delivery",0
+"As a shopper, I want to checkout so that I can track delivery",0
+"As a user, I would like to handle finances to comply with regulations",1
+"As a shopper, I want to add to cart so that I have better find desired items",1
+"As a network admin, I would like to troubleshoot connection to optimize performance",0
+"As a supervisor, I want to optimize workflow in order to improve efficiency with detailed specifications and comprehensive requirements",1
+"As a caregiver, I need to generate lab report so that I can improve patient care with detailed specifications and comprehensive requirements",0
+"As a loan officer, I would like to schedule appointment to track spending",0
+"As a account holder, I want to manage account in order to track spending with detailed specifications and comprehensive requirements",1
+"As a customer, I need to manage service so that I can maintain connectivity with detailed specifications and comprehensive requirements",1
+"As a shopper, I need to checkout so I can complete purchase",0
+"As a nurse, I want to generate lab report so that I can ensure compliance",0
+"As a supervisor, I would like to track inventory to improve efficiency",0
+"As a buyer, I need to add to cart so that I can make informed decisions with detailed specifications and comprehensive requirements",0
+"As a investor, I would like to access system to track spending",1
+"As a patient, I want to prescribe medication in order to ensure compliance",0
+"As a healthcare provider, I want to process medical information so that I can improve patient care with detailed specifications and comprehensive requirements",1
+"As a network admin, I need to troubleshoot connection so that I can reduce costs",0
+"As a service representative, I want to update configuration so that I can reduce costs",1
+"As a bank customer, I would like to manage account to improve security",1
+"As a seller, I want to add to cart so I can make informed decisions",0
+"As a shopper, I want to add to cart so that I can find desired items with detailed specifications and comprehensive requirements",0
+"As a caregiver, I need to prescribe medication so I can ensure compliance",0
+"As a vendor, I want to update inventory so that I can find desired items as soon as possible",1
+"As a nurse, I would like to prescribe medication to improve patient care",0
+"As a financial advisor, I would like to view account balance to improve security",0
+"As a store owner, I would like to handle orders to save money",1
+"As a buyer, I want to add to cart so that I can save money",0
+"As a user, I need to manage products so that I can complete purchase",1
+"As a bank customer, I want to update information so that I can comply with regulations",1
+"As a caregiver, I want to handle patient care so that I can save time",1
+"As a operator, I want to monitor production in order to maintain safety",0
+"As a engineer, I want to handle quality control in order to ensure quality",1
+"As a user, I need to pay bill so I can reduce costs",0
+"As a network admin, I need to handle network issues so that I can avoid overage charges",1
+"As a subscriber, I would like to troubleshoot connection to reduce costs",0
+"As a patient, I need to access records so I can improve patient care",1
+"As a buyer, I would like to search products to complete purchase with detailed specifications and comprehensive requirements",0
+"As a supervisor, I need to generate reports so that I can maintain safety",0
+"As a financial advisor, I want to access system so I can meet financial goals",1
+"As a caregiver, I want to update system so that I can improve patient care",1
+"As a account holder, I need to download statements so that I can comply with regulations with detailed specifications and comprehensive requirements",0
+"As a bank customer, I want to manage account in order to save time",1
+"As a customer, I would like to pay bill to optimize performance",0
+"As a engineer, I would like to inspect products to reduce downtime with detailed specifications and comprehensive requirements",0
+"As a shopper, I need to track order so that I can make informed decisions",0
+"As a supervisor, I would like to generate reports to meet production targets",0
+"As a patient, I want to generate lab report so that I can enhance safety with detailed specifications and comprehensive requirements",0
+"As a nurse, I would like to process medical information to enhance safety with detailed specifications and comprehensive requirements",1
+"As a network admin, I want to report outage so I can avoid overage charges",0
+"As a technician, I want to process requests so that I can reduce costs",1
+"As a service representative, I want to upgrade plan in order to avoid overage charges",0
+"As a user, I want to update systems so that I can maintain safety",1
+"As a customer, I need to pay bill so that I can optimize performance",0
+"As a bank customer, I want to transfer funds in order to comply with regulations with detailed specifications and comprehensive requirements",0
+"As a patient, I want to process medical information in order to ensure compliance with detailed specifications and comprehensive requirements",1
+"As a user, I want to process medical information so that I can save time",1
+"As a financial advisor, I want to schedule appointment so I can save time",0
+"As a investor, I want to access system in order to save time",1
+"As a customer, I would like to add to cart to save money",0
+"As a medical staff, I need to generate lab report so that I can ensure compliance",0
+"As a bank customer, I want to download statements in order to improve security",0
+"As a plant manager, I want to track inventory in order to reduce downtime",0
+"As a seller, I want to access dashboard in order to find desired items",1
+"As a healthcare provider, I want to manage health data in order to improve patient care",1
+"As a user, I need to schedule maintenance so that I can improve efficiency with detailed specifications and comprehensive requirements",1
+"As a vendor, I would like to process payments to track delivery",1
+"As a loan officer, I would like to apply for loan to save time with detailed specifications and comprehensive requirements",0
+"As a investor, I want to apply for loan in order to improve security",0
+"As a healthcare provider, I want to update patient info in order to enhance safety with detailed specifications and comprehensive requirements",0
+"As a patient, I want to access records in order to ensure compliance as soon as possible",1
+"As a patient, I want to view medical records so that I can enhance safety",0
+"As a engineer, I want to monitor production so that I can maintain safety with detailed specifications and comprehensive requirements",0
+"As a shopper, I want to process payments in order to complete purchase",1
+"As a user, I want to upgrade plan so that I can optimize performance",0
+"As a customer, I want to schedule appointment in order to meet financial goals",0
+"As a service representative, I want to manage service so that I can optimize performance",1
+"As a service representative, I want to pay bill so that I can resolve issues with detailed specifications and comprehensive requirements",0
+"As a subscriber, I need to upgrade plan so that I have better maintain connectivity",1
+"As a user, I want to update patient info in order to ensure compliance with detailed specifications and comprehensive requirements",1
+"As a customer, I want to track order in order to complete purchase with detailed specifications and comprehensive requirements",0
+"As a financial advisor, I would like to transfer funds to meet financial goals with detailed specifications and comprehensive requirements",0
+"As a investor, I want to view account balance so that I can meet financial goals with detailed specifications and comprehensive requirements",0
+"As a subscriber, I want to check data usage so that I can resolve issues with detailed specifications and comprehensive requirements",0
+"As a caregiver, I want to generate lab report so that I can reduce errors",0
+"As a bank customer, I would like to apply for loan to track spending",0
+"As a customer, I need to download statements so that I can meet financial goals with detailed specifications and comprehensive requirements",0
+"As a customer, I need to schedule appointment so I can save time",0
+"As a subscriber, I want to pay bill in order to reduce costs",0
+"As a investor, I need to schedule appointment so that I can comply with regulations with detailed specifications and comprehensive requirements",0
+"As a patient, I would like to generate lab report to reduce errors",0
+"As a subscriber, I want to handle network issues in order to reduce costs",1
+"As a user, I want to troubleshoot connection in order to maintain connectivity",0
+"As a plant manager, I want to inspect products in order to improve efficiency",0
+"As a subscriber, I want to troubleshoot connection so that I can avoid overage charges with detailed specifications and comprehensive requirements",0
+"As a caregiver, I would like to prescribe medication to save time",0
+"As a caregiver, I want to process medical information in order to improve patient care",1
+"As a engineer, I want to inspect products in order to maintain safety",0
+"As a subscriber, I would like to upgrade plan to maintain connectivity",0
+"As a loan officer, I want to view account balance so that I can meet financial goals",0
+"As a bank customer, I want to apply for loan so that I can save time",0
+"As a network admin, I would like to check data usage to maintain connectivity",0
+"As a patient, I need to update patient info so that I can improve patient care",0
+"As a doctor, I want to schedule appointment in order to save time",0
+"As a user, I want to apply for loan in order to save time",1
